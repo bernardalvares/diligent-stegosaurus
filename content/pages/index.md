@@ -8,11 +8,17 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >
-      # Mel do vô 
+      # Mel do vô
 
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Somos uma equipe de apicultores profissionais capacitados para resgatar
+      enxame de abelhas, colmeia, vespas/marimbondos em ambiente urbano e
+      rural,  temos 10 anos de experiência de manejo em residências, condomínios
+      e indústrias;
+
+
+      Apicultores qualificados para trabalhar em altura e próximo a eletricidade
+      com todos os equipamentos de segurança e responsabilidade ambiental, 
     actions:
       - title: See all items
         url: /store
