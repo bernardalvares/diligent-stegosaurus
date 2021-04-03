@@ -20,8 +20,7 @@ sections:
       Apicultores qualificados para trabalhar em altura e próximo a eletricidade
       com todos os equipamentos de segurança e responsabilidade ambiental, 
     actions:
-      - title: See all items
-        url: /store
+      - url: /store
         arrow: true
         style: primary
   - type: featured_products_section
