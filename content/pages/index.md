@@ -8,7 +8,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >
-      # Mel do vô
+      # Loja de Plantas
 
 
       Somos uma equipe de apicultores profissionais capacitados para resgatar
@@ -18,7 +18,7 @@ sections:
 
 
       Apicultores qualificados para trabalhar em altura e próximo a eletricidade
-      com todos os equipamentos de segurança e responsabilidade ambiental, 
+      com todos os equipamentos de segurança e responsabilidade ambiental,
     actions:
       - url: /store
         arrow: true
