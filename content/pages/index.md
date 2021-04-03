@@ -23,6 +23,7 @@ sections:
       - url: /store
         arrow: true
         style: primary
+        title: Veja todos os itens
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
